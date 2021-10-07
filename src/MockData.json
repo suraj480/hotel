@@ -1,0 +1,72 @@
+[
+    {
+        "img": "https://images.all-free-download.com/images/graphicthumb/hotel_room_stock_photo_515821.jpg",
+        "city":"Banglore",
+        "hotelId":1205,
+        "hotelName":"Raddison blu",
+        "price":"4,200"
+    },
+    {
+        "img": "https://res.cloudinary.com/simplotel/image/upload/x_0,y_615,w_4813,h_1875,c_crop,q_80,fl_progressive/w_600,h_337,f_auto,c_fit/vits-hotels/Listing_Image_skazsy",
+        "city":"Banglore",
+        "hotelId":3405,
+        "hotelName":"ITC Grand Chola",
+        "price":"5,120"
+    },
+    {
+        "img": "https://media.istockphoto.com/photos/interior-of-a-modern-luxury-hotel-double-bed-bedroom-picture-id1163498940?k=6&m=1163498940&s=612x612&w=0&h=NEsid6vx4Lfy-6hrZoPJacuvgk_krlxS8yI9VD5Wl7M=",
+        "city":"Chennai",
+        "hotelId":5461,
+        "hotelName":"The Imperial",
+        "price":"6,800"
+    },
+    {
+        "img": "https://media.cntraveler.com/photos/53e2f3a6dddaa35c30f66549/4:3/w_935,h_701,c_limit/four-seasons-hotel-lion-palace-st-petersburg-200004-1.jpg",
+        "city":"Mumbai",
+        "hotelId":6110,
+        "hotelName":"Hotel Sea Princess",
+        "price":"3,299"
+    },
+    {
+        "img":"https://ihg.scene7.com/is/image/ihg/IC-Home-3up-2-3x2",
+        "city":"Mumbai",
+        "hotelId":1730,
+        "hotelName":"The Taj Mahal Palace",
+        "price":"12,821"
+    },
+    {
+        "img":"https://thumbs.dreamstime.com/b/hotel-room-22008848.jpg",
+        "city":"Trivandrum",
+        "hotelId":9021,
+        "hotelName":"Hycinth",
+        "price":"4,050"
+    },
+    {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy7mr86EK5RjKj4fQm0rG7MxBGHBLgCNuSPQ&usqp=CAU",
+        "city":"Hyderabad",
+        "hotelId":5931,
+        "hotelName":"Red Fox Hotel",
+        "price":"3,199"
+    },
+    {
+        "img":"https://www.japan-guide.com/g21/2025_capsule_03.jpg",
+        "city":"Pune",
+        "hotelId":7215,
+        "hotelName":"Royal Orchid Central",
+        "price":"3,200"
+    },
+    {
+        "img":"https://thumbs.dreamstime.com/b/hotel-rooms-8146308.jpg",
+        "city":"Kolkata",
+        "hotelId":1004,
+        "hotelName":"Novotel",
+        "price":"4,200"
+    },
+    {
+        "img": "https://www.theleela.com/goa-hotel-images/rooms-and-suites-goa.jpg",
+        "city":"Delhi",
+        "hotelId":8300,
+        "hotelName":"Taj Palace",
+        "price":"6,203"
+    }
+]
